@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “Money and Time by Naval”
+title: “ Money and Time by Naval ”
 description: ""
 date: 2018-10-11
 tags: 

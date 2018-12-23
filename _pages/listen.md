@@ -1,12 +1,14 @@
 ---
 layout: content
-title: Podcast Library
-permalink: /podcast/
+title: Audio/Video Library
+permalink: /listen/
 ---
 
 # Venture Capital
 
-[Nuzzel’s Jonathan Abrams on Why The Top VCs Do Not Have A PlayBook For Startup Succes](https://overcast.fm/+EBTDMaf9I)
+[How Sean Parker Picks Investments](https://www.youtube.com/watch?v=Ked4vecS-Hc)
+
+[Founders Fund's Approach to Investing in Tech](https://www.youtube.com/watch?v=bKVdbJo7b-Q)
 
 [Why Founders Need a Strategy with Brian Singerman, Founders Fund](https://overcast.fm/+70-4DN7o)
 
@@ -16,6 +18,8 @@ permalink: /podcast/
 
 [Marc Andreessen, investor and entrepreneur](https://overcast.fm/+F36pmGao8)
 
+[Marc Andreessen -- Lessons, Predictions, and Recommendations from an Icon](https://www.breaker.audio/the-tim-ferriss-show/e/4892308)
+
 [The Angel Philosopher](https://overcast.fm/+Ei1BFuA1Y)
 
 [Venture capital is headed for a ‘huge, rude awakening’ ](https://overcast.fm/+F36qtW8zQ)
@@ -23,6 +27,11 @@ permalink: /podcast/
 [Technological Trends, Capital, and Internet ‘Disruption’](https://overcast.fm/+BlzFPJdLY)
 
 [The State of Venture Capital by Chris Dixon](https://overcast.fm/+Ei1Ae8cmA)
+
+[Chamath Palihapitiya on falling for Ponzi scheme of SV, returns to solving problems that matter](https://www.youtube.com/watch?v=RwRZtZQoLtQ)
+
+[Nuzzel’s Jonathan Abrams on Why The Top VCs Do Not Have A PlayBook For Startup Succes](https://overcast.fm/+EBTDMaf9I)
+
 
 # Startup Founder
 
@@ -35,6 +44,13 @@ permalink: /podcast/
 [Elad Gil](https://overcast.fm/+Jb6ABXCso)
 
 [Sam Altman on What Makes The Best Founders ](https://overcast.fm/+GKgC2KUqA)
+
+# Strategy and Disruption
+
+[Tesla and the Nature of Disruption](https://overcast.fm/+BlzEVKwhM)
+
+[Technological Trends, Capital, and Internet ‘Disruption’](https://overcast.fm/+BlzFPJdLY)
+
 
 # Perform
 

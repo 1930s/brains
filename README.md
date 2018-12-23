@@ -1,10 +1,10 @@
 
 <p align="center">
-  <img width="200" height="200" src="https://i.imgur.com/xm8i7k5.png" alt="Sublime's custom image"/>
+  <img width="200" height="200" src="https://www.symbols.com/gi.php?type=1&id=1309" alt="Sublime's custom image"/>
 </p>
 
 
-# Functional Flow > Brains > Ghosts in the Shell
+# Ghosts in the Shell
 
 **I'm decentralizing my brain to a network of brains.**
 
@@ -16,11 +16,7 @@ We are still way far from that kind of individual advanced tech in 2018, though 
 
 Our mind is in a constant racing state.
 
-Inspired by Ghost in the Shell, I believe the future of human thinking is to decentralize ourselves to a thinking network like "GHOSTS in the Shell". I think we should try to turn our brain into composable and functional brains network by starting to view everything as a function and iterate it like a machine, together.
+Inspired by Ghost in the Shell, I believe the future of human thinking is to decentralize ourselves to a thinking network like "GHOSTS in the Shell". I think we should try to turn our brain into composable and functional brains network by starting to view everything as a function and iterate it like a machine, together. (Functional Flow)
 
-We need to elevate our mind in this digital age. Not only as human, but also as human + machine.
-
-**(I'm building the software n hardware tool for it. Email me if you are interested to join private beta: allenleein@gmail.com)**
-
-## [Read Wiki](https://github.com/allenleein/brains/wiki#table-of-contents-essay-still-in-process)
+We need to elevate our mind in this digital age. Not only as a human, but also as a human + machine.
 

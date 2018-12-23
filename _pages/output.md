@@ -1,45 +1,18 @@
 ---
 layout: content
-title: λ
+title: ☈λ
 permalink: /output/
 ---
 
-## Ghosts in the Shell
-
-[λ Ghosts in the Shell λ: Function Composition in a Network of Brains](https://github.com/allenleein/brains/wiki)
-
-
-## People
-
-[Dunkirk: The legend ends, the unknown knight rises](https://medium.com/@allenleein/dunkirk-943222cc8ea)
 
 [All People are Born Artists](https://allenleein.github.io/brains/2018/03/artist)
 
 [Contrarian](https://allenleein.github.io/brains/2018/05/contrarian)
 
-## Building 
-
-[99.9% VC Would't Fund Facebook](https://allenleein.github.io/brains/2018/06/vc-bias)
-
-[A Cool Startup](https://allenleein.github.io/brains/2018/06/cool-startup)
+[Leverage the Odds to Create Your Own Game](https://medium.com/functionsfund/strategy-to-master-the-odds-62289b0f712)
 
 [Validate Your Idea](https://allenleein.github.io/brains/2018/06/validate-idea)
 
-[Paul Graham on Starting a Startup](https://allenleein.github.io/brains/2018/09/PG-talks)
-
-## Leverage the Odds
-
-[Strategy to Leverage the Odds : Don't play the play](https://medium.com/functionsfund/strategy-to-master-the-odds-62289b0f712)
-
-[Apple’s Strategy to Dominate Audio](https://medium.com/functionsfund/functions-c292b619a0c3)
+[A Cool Startup](https://allenleein.github.io/brains/2018/06/cool-startup)
 
 [Too Big to Fake](https://medium.com/@allenleein/too-big-to-fake-a7510321273b)
-
-----
-
-#### My Input Library
-
-[Podcast Library](https://allenleein.github.io/brains/podcast/)
-
-[Startup and VC Reading Library](https://allenleein.github.io/brains/startup/)
-

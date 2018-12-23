@@ -30,28 +30,21 @@ The best team will be like:
   <img width="700" height="400" src="https://cdn-images-1.medium.com/max/1600/1*YNkWVnIh5lwqAU8uzWC4nQ.png" alt="Sublime's custom image"/>
 </p>
 
-In MVP you launch the first version of your product with sufficient features, but not all, to early adopters so that you can get feedback from them. MVP and the "Build Measure Learn" feedback loop, gives you important tools to leverage your product. 
+In MDP/MVP you launch the first version of your product with sufficient features, but not all, to early adopters so that you can get feedback from them. MDP/MVP and the "Build Measure Learn" feedback loop, gives you important tools to leverage your product. 
 
 Build something you can measure and iterate.
 
-# Rules
+[MVP or MDP?](https://andrewchen.co/minimum-desirable-product/)
 
-## Where
+# Steps
+
+### Old vs. New
 
 Often what you create will initially seem to fit into an existing market, but with less functionality. With the fullness of  time, it will become obvious that the job your customers are hiring you for is completely different than the “incumbents” -David Rusenko 
 
-## When 
+Fucus the interaction design rather than the visual design.
 
-“Launch when your product is better than what’s out there.” - Paul Buchheit
-
-## What
-
-“The true test of Product-Market Fit iss 'drowning in demand'.” - Michael Seibel
-
----
-
-
-### Focus on problems not solution
+### Focus on problems [not solution](https://mobile.twitter.com/Suhail/status/1060948296573710336)
  
 Write down the problem you're trying to solve and your solution. A lot of ideas may sound awesome while they're in your head, but that might change once you transform it from an abstract concept into 2–3 sentences.
 
@@ -80,3 +73,5 @@ Focus on getting to a functional prototype as quickly as possible that you can g
 ### Ask yourself
 
 Were you able to get 100 users who insanely love your product? Are people coming back to use the product again? Are your users enthusiastic? After 3 months, you should have some basic feeling on whether this thing is gonna float or not.
+
+Best sc: 'drowning in demand'

@@ -1,7 +1,7 @@
 ---
 layout: content
 title: Must-Read
-permalink: /startup/
+permalink: /read/
 ---
 
 
@@ -65,6 +65,8 @@ permalink: /startup/
 
 [Strategy to Leverage the Odds : Don't play the play](https://medium.com/functionsfund/strategy-to-master-the-odds-62289b0f712)
 
+[Does every startup need a Steve Jobs?](https://andrewchen.co/does-every-startup-need-a-steve-jobs/)
+
 [The Power User Curve: The Best Way to Understand Your Most Engaged Users](https://a16z.com/2018/08/06/power-user-curve-l30-l7/)
 
 [Acquiring your first 100 customers](https://medium.com/@suhaild/acquiring-your-first-100-customers-5499866d10fb)
@@ -95,9 +97,16 @@ permalink: /startup/
 
 [Mobile OS Paradigm](https://blog.learningbyshipping.com/2014/08/12/mobile-os-paradigm/)
 
+[The end of the beginning](https://www.ben-evans.com/benedictevans/2018/11/16/the-end-of-the-beginning)
+
 
 ## Wrong Prediction
 
 [2007 My YC app: Dropbox - Throw away your USB drive](https://news.ycombinator.com/item?id=8863)
+
+
+## Design
+
+[Startups, this is how design works](https://startupsthisishowdesignworks.com/)
 
 

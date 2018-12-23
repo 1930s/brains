@@ -18,8 +18,9 @@
                                                          `=---='
 
 
+# 101
 
-## From 101 to think funcitonally:
+### From 101 to think funcitonally:
 
 [0] [The Structure and Interpretation of Computer Programs](https://github.com/allenleein/brains/blob/master/Zen-of-Functional-Programming/(883)The%20Structure%20and%20Interpretation%20of%20Computer%20Programs.pdf)
 
@@ -27,20 +28,7 @@
 
 [3] [Types and Programming Languages-Benjamin C. Pierce](https://github.com/allenleein/brains/blob/master/Zen-of-Functional-Programming/Types%20and%20Programming%20Languages-Benjamin%20C.%20Pierce.pdf)
 
-## State of the Haskell & Purescript ecosystem
-
-[The Haskell Stack Ecosystem in 30 Seconds Or Less](https://chrisconlan.com/the-haskell-package-ecosystem-in-30-seconds-or-less/)
-
-[State of Haskell editor/IDE support](https://github.com/rainbyte/haskell-ide-chart)
-
-[State of the Haskell ecosystem](https://github.com/Gabriel439/post-rfc/blob/master/sotu.md#server-side-programming)
-
-[An opinionated guide to Haskell in 2018](https://lexi-lambda.github.io/blog/2018/02/10/an-opinionated-guide-to-haskell-in-2018/)
-
-[PureScript: Tomorrow’s JavaScript Today](https://www.youtube.com/watch?v=5AtyWgQ3vv0)
-
-
-## Pre-Haskell
+### Advice for Beginner
 
 **Don't write abstractions first**. 
 
@@ -51,26 +39,71 @@ Rather, write the program like you would naturally, then when you recognize the 
 Reading ref: [For Beginners](https://argumatronic.com/posts/1970-01-01-beginners.html)
 
 
-## Haskell 101
+# Haskell
 
-⭐️⭐️⭐️ [Haskell Study Plan](https://github.com/soupi/haskell-study-plan)
+### Haskell 101
 
-⭐️⭐️⭐️ [CIS 194 UPenn 2013](http://www.seas.upenn.edu/~cis194/spring13/lectures.html)
+[Practical Haskell](http://seanhess.github.io/) (Try this)
 
-[ CIS 194 Homework](https://github.com/elbeno/cis194-spring2013)
-  
-[Practical Haskell](http://seanhess.github.io/)
+[Haskell Study Plan](https://github.com/soupi/haskell-study-plan)(Then this again)
 
-## Purescript 
+[CIS 194 UPenn 2013](http://www.seas.upenn.edu/~cis194/spring13/lectures.html)(Take a look)
 
-[Documentation for the PureScript language, compiler, and tools.](https://github.com/purescript/documentation)
+[Haskell Programming From First Principle](https://github.com/allenleein/brains/blob/master/Zen-of-Functional-Programming/Haskell%20Programming%20From%20First%20Principle.pdf)(The gold)
 
 
-## Pratical Projects
+### Fron-end with Haskell
+
+[misco- Haskell front-end framework](https://github.com/dmjio/miso)
+
+
+### Build project with Haskell
 
 [Building a Haskell Web API ](https://lettier.github.io/posts/2016-07-15-building-a-haskell-web-api.html)
 
 [Connecting a Haskell Backend to a PureScript Frontend](https://www.stackbuilders.com/tutorials/functional-full-stack/purescript-bridge/)
+
+[A Game in Haskell - Dino Rush](http://jxv.io/blog/2018-02-28-A-Game-in-Haskell.html)
+
+[Haskell Project: Intro to Parsers](https://commentedcode.org/blog/2017/05/21/haskell-project-intro-to-parsers/)
+
+### Production
+
+[Haskell Code to Production](https://www.reddit.com/r/haskell/comments/7dtmha/what_is_the_easiest_way_to_deploy_haskell_code_to/)
+
+
+### State of the Haskell & Purescript ecosystem
+
+[The Haskell Stack Ecosystem in 30 Seconds Or Less](https://chrisconlan.com/the-haskell-package-ecosystem-in-30-seconds-or-less/)
+
+[State of Haskell editor/IDE support](https://github.com/rainbyte/haskell-ide-chart)
+
+[Setting up Haskell in VS Code on macOS](https://medium.com/@dogwith1eye/setting-up-haskell-in-vs-code-on-macos-d2cc1ce9f60a)
+
+[State of the Haskell ecosystem](https://github.com/Gabriel439/post-rfc/blob/master/sotu.md#server-side-programming)
+
+[An opinionated guide to Haskell in 2018](https://lexi-lambda.github.io/blog/2018/02/10/an-opinionated-guide-to-haskell-in-2018/)
+
+[PureScript: Tomorrow’s JavaScript Today](https://www.youtube.com/watch?v=5AtyWgQ3vv0)
+
+---
+
+# Purescript
+
+### Purescript 101
+
+[Setting up PureScript in December 2018](https://qiita.com/kimagure/items/570e6f2bbce5b4724564)
+
+[PureScript Resources1](https://purescript-resources.readthedocs.io/en/latest/)
+
+[PureScript Resources2](https://github.com/JordanMartinez/purescript-jordans-reference)
+
+[PureScript Book: Updated coded to 0.12](https://github.com/dwhitney/purescript-book/tree/master/text)
+
+[Documentation for the PureScript language, compiler, and tools.](https://github.com/purescript/documentation)
+
+
+### Build projects with Purescript
 
 [Writing a Simple REST Web Service in PureScript](https://abhinavsarkar.net/posts/ps-simple-rest-service/)
 
@@ -80,14 +113,12 @@ Reading ref: [For Beginners](https://argumatronic.com/posts/1970-01-01-beginners
 
 [A puzzle game inspired by functional programming](https://github.com/sharkdp/cube-composer/)
 
-[Haskell Project: Intro to Parsers](https://commentedcode.org/blog/2017/05/21/haskell-project-intro-to-parsers/)
-
 [High precision scientific calculator with support for physical units](https://github.com/sharkdp/insect)
 
 [Electron Apps with PureScript](https://kritzcreek.github.io/posts/2016-07-05-purescript-electron.html)
 
 
-## More about FP
+# FP Reading
 
 [Zen-of-Functional-Programming (Free PDFS)](https://github.com/allenleein/brains/tree/master/Zen-of-Functional-Programming)
 
